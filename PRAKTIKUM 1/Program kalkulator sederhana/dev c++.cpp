@@ -37,4 +37,18 @@ int main()
 	int a,b,d,e,g,h,m,n, menu;
 	double j,k,p;
 	string mulai;
+	cout<<"----------------------------------------------------------------"<<endl;
+	cout<<"                       PROGRAM KALKULATOR"<<endl;
+	cout<<"----------------------------------------------------------------"<<endl;
+	cout<<"\nMenu Operasi :"<<endl;
+	cout<<" 1. Penambahan"<<endl;
+	cout<<" 2. Pengurangan"<<endl;
+	cout<<" 3. Perkalian"<<endl;
+	cout<<" 4. Pembagian"<<endl;
+	cout<<" 5. Perpangkatan"<<endl;
+	cout<<" 6. Akar pangkat"<<endl;
+	cout<<" 7. Keluar"<<endl;
+	cout<<"\n----------------------------------------------------------------"<<endl;
+	cout<<"Ketik 'mulai' untuk menggunakan program kalkulator : ";
+	cin>>mulai;
 }
